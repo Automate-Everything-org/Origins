@@ -15,7 +15,8 @@ Each of us are extremely passinoate about technology and want to leverage techno
 
 ### **What next?**
 
-Well, you’ve done the first step by paying a visit to this Github org. Hit the follow button, checkout our website [A.E.](https://automate-everything.org) follow us on twitter [@automateevrytng](https://twitter.com/automateevrytng), join our live discord server to discuss challenges in real time! We are also on [LinkedIn](https://www.linkedin.com/company/automate-everything) and also a [chat group](https://www.linkedin.com/chat/gs9bkwyujc2c) on LinkedIn.
+Well, you’ve done the first step by paying a visit to this Github org. Hit the follow button, checkout our website [A.E.](https://automate-everything.org) follow us on twitter [@automateevrytng](https://twitter.com/automateevrytng), join our live discord server to discuss challenges in real time!
+We are also on [LinkedIn](https://www.linkedin.com/company/automate-everything) and have a [chat group](https://www.linkedin.com/chat/gs9bkwyujc2c).
 
 I’ve done all that. Now what ??
 
